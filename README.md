@@ -33,6 +33,6 @@ I’m looking for my first role in data|BI analytics — ideally something where
 ## 🤝 Let’s connect
 
 - Email: vonselew.maks@gmail.com  
-- LinkedIn: [linkedin.com/in/maksimvonseleu](linkedin.com/in/maksimvonseleu)  
+- LinkedIn: [linkedin.com/in/maksimvonseleu](https://linkedin.com/in/maksimvonseleu)  
 
 ---

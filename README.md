@@ -27,3 +27,12 @@ I’m not just learning tools — I’m learning how to **ask better questions**
 ## 🎯 Why I’m here
 
 I’m looking for my first role in data|BI analytics — ideally something where I can apply analytical thinking and technical tools to real-world problems. I’m open to opportunities across different industries and care more about creating impact than chasing buzzwords.
+
+---
+
+## 🤝 Let’s connect
+
+- Email: vonselew.maks@gmail.com  
+- LinkedIn: [linkedin.com/in/maksimvonseleu](linkedin.com/in/maksimvonseleu)  
+
+---

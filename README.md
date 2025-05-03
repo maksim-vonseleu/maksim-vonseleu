@@ -10,7 +10,7 @@ I’m not just learning tools — I’m learning how to **ask better questions**
 
 - Python (pandas, matplotlib, seaborn)
 - Power BI (yes, I’m into DAX too)
-- SQL — SELECT-ing my way through mySQL, PostgreSQL like a champ
+- SQL — SELECT-ing my way through MySQL, PostgreSQL like a champ
 - Data storytelling: from messy CSVs to slick dashboards
 - Logistics logic: I still think in routes, flows, and bottlenecks
 

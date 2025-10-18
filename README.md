@@ -8,11 +8,6 @@ I have over **4 years of experience** in **logistics and supply chain**, managin
 - **Business Understanding:** Optimization of logistics processes, managing multimodal transport, negotiating with partners.  
 - **Languages:** English — professional, Russian/Belarusian — native, Lithuanian — professional working proficiency.
 
-### What I’m Doing Now
-- Developing analytical solutions and dashboards for monitoring transportation and operational efficiency.  
-- Automating reporting using Python and SQL, integrating data sources into Power BI.  
-- Applying basic ML/AI approaches and tools for forecasting and anomaly detection in documents and data streams.
-
 ### Why It Matters
 Combining operational experience with data skills allows me to not only create visualizations but also formulate practical recommendations for process improvement — from reducing downtime to optimizing asset utilization.
 

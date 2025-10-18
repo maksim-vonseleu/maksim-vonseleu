@@ -11,6 +11,9 @@ I have over **4 years of experience** in **logistics and supply chain**, managin
 ### Why It Matters
 Combining operational experience with data skills allows me to not only create visualizations but also formulate practical recommendations for process improvement — from reducing downtime to optimizing asset utilization.
 
+### Projects
+- 🔗 https://github.com/maksim-vonseleu/Projects
+
 ### Contact
 - 📧 vonselew.maks@gmail.com  
 - 🔗 https://www.linkedin.com/in/maksimvonseleu  

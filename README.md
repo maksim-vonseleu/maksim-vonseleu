@@ -10,7 +10,7 @@ My background combines real-world operational experience with data analytics and
 ## Technical Stack
 
 **Programming & Data**  
-- Python (Pandas, NumPy, Matplotlib, Scikit-learn)  
+- Python (Pandas, NumPy, Matplotlib)  
 - SQL (MySQL)  
 - API integration, data cleaning  
 
@@ -21,7 +21,7 @@ My background combines real-world operational experience with data analytics and
 - GIS tools  
 
 **Business & Analytics**  
-- P&L analysis  
+- Profit&Loss analysis  
 - Forecasting and risk detection  
 - Operational reporting automation  
 

@@ -3,8 +3,8 @@
 Data Analyst with 4+ years of experience in logistics operations and environmental analytical control. I specialize in converting operational data into actionable insights and automated reporting solutions using Python, SQL, and Power BI.
 
 ### Technical Skills
-* Data Analysis: Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL, MySQL).
-* BI & Visualization: Power BI (DAX, Power Query), Tableau, Excel, GIS tools.
+* Data Analysis: Python, SQL.
+* BI & Visualization: Power BI, Excel, GIS tools.
 * Business Tools: SalesForce, AI-driven automation for forecasting and risk detection.
 * Expertise: Statistical analysis, data cleaning, P&L modeling, and API integration.
 
